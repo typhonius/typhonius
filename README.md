@@ -23,13 +23,9 @@ I enjoy:
 
 I didn't realise typhonius was a species of toad when I picked it. When asked to create a character name for a game at school, I thought I was being really imaginative with my personal alterations to the word typhoon. Alas, toad 🐸
 
-## GitHub Stats
-
-![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=typhonius&show_icons=true&theme=radical)
-
 ## Get in Touch
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamdmalone/)
-- [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.adammalone.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamdmalone/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.adammalone.net)
 
 ---
 
