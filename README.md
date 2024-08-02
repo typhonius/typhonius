@@ -19,6 +19,10 @@ I enjoy:
 - 🌐 Developing relationships between customers, vendors, and partners to mutually grow ecosystems
 - 🌍 Building a better world as we grow symbiotically reliant on technology
 
+## Why typhonius?
+
+I didn't realise typhonius was a species of toad when I picked it. When asked to create a character name for a game at school, I thought I was being really imaginative with my personal alterations to the word typhoon. Alas, toad 🐸
+
 ## GitHub Stats
 
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=typhonius&show_icons=true&theme=radical)
