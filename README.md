@@ -11,7 +11,7 @@ Having grown up seeing the global transition to a world where the internet was u
 - 💡 Technology-driven, user-first transformation
 - 🔒 Privacy, security, and an open internet
 
-With over 10 years of experience in digital technologies and platforms as well as a background spanning sales, solutions, consulting, and development, I know what success looks like and how to get there.
+With over 15 years of experience in digital technologies and platforms as well as a background spanning sales, solutions, consulting, and development, I know what success looks like and how to get there.
 
 I enjoy:
 - 🛠 Using both my industry and sector experience as well as my passion for technology and its application to guide technology transformations
